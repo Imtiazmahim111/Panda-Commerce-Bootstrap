@@ -1,0 +1,32 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+.my-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding:9px 25px;
+    border:none;
+    border-radius: 8px;
+}
+.price{
+    color: #FF136F;
+}
+.gat-1{
+    background-color: orange;
+
+}
+.gat-2{
+    background-color: orchid;
+}
+.gat-3{
+    background-color: blue;
+}
+.mrg-btm{
+    margin-bottom: 100px;
+}
+.mrg-lft{
+    margin-left: 20px;
+}
